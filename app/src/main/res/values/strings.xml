@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MadLevel1Task2</string>
+    <string name="T">T</string>
+    <string name="F">F</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="title">Conjunction (AND)</string>
+    <string name="wrong_answers">Wrong answers: %d</string>
+</resources>
